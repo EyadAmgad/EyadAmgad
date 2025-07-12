@@ -1,6 +1,11 @@
 # Hi there, I'm Eyad 👋
 
-I'm a passionate **Computer Engineering** student with a strong interest in **Machine Learning**, **Data Science**, and **Software Development**. I enjoy building intelligent systems using Python, cloud tools, and open-source technologies.
+I'm a passionate **Computer Engineering** student focused on building intelligent systems. I enjoy working at the intersection of **Machine Learning**, **Data Science**, and **Software Engineering**, with hands-on experience in building real-world AI-powered applications.
+
+---
+
+## 🏷️ Tags
+`Machine Learning` • `Computer Vision` • `Data Science` • `Deep Learning` • `NLP` • `Software Engineering` • `Python Developer` • `Open Source Enthusiast`
 
 ---
 
@@ -42,11 +47,15 @@ I'm a passionate **Computer Engineering** student with a strong interest in **Ma
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eyadeng&show_icons=true&theme=radical" alt="Eyad's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyadeng&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eyadeng&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
