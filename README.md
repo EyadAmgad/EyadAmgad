@@ -11,9 +11,9 @@ With strong proficiency in Python, MLOps tools, and open-source technologies, I 
 
 ---
 
-## 🚀 Skills & Tools
+##  Skills & Tools
 
-### 🧠 Languages
+### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
@@ -21,7 +21,7 @@ With strong proficiency in Python, MLOps tools, and open-source technologies, I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
@@ -30,14 +30,14 @@ With strong proficiency in Python, MLOps tools, and open-source technologies, I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
 </p>
 
-### 📊 Data Science & Visualization
+### Data Science & Visualization
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
 </p>
 
-### 🧰 Dev Tools & Platforms
+### Dev Tools & Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker Desktop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
@@ -48,7 +48,7 @@ With strong proficiency in Python, MLOps tools, and open-source technologies, I 
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EyadAmgad&show_icons=true&theme=radical" alt="Eyad's GitHub Stats"/>
@@ -61,7 +61,7 @@ With strong proficiency in Python, MLOps tools, and open-source technologies, I 
 
 ---
 
-## 👁️ Profile Views
+##  Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=EyadAmgad&style=flat-square&color=blue" alt="EyadAmgad"/>
