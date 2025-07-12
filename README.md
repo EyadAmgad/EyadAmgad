@@ -1,19 +1,31 @@
-## Hi there 👋
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-<!--
-**EyadAmgad/EyadAmgad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Eyad 👋
 
-Here are some ideas to get you started:
+I'm a passionate **Computer Engineering** student specializing in **Machine Learning**, **Data Science**, and **Software Engineering**. Currently building real-world projects using Python, Django, FastAPI, and PyTorch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages:** Python, C++, JavaScript, SQL
+- **Frameworks:** Django, FastAPI, Streamlit, React
+- **Machine Learning:** scikit-learn, TensorFlow, PyTorch, OpenCV
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
+- **DevOps & Tools:** Git, Docker, VSCode, GitHub, Linux
+- **Cloud & Deployment:** Streamlit Cloud, Heroku, Render
+
+## 🛠 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Tour Guide Chatbot](https://github.com/eyadeng/r_rag) | RAG-based chatbot trained on Egyptian tourism | LangChain, Hugging Face, Django, FastAPI |
+| [Depth Estimation](https://github.com/eyadeng/depth-estimation) | Real-time camera-based depth prediction | PyTorch, MiDaS, Streamlit |
+| [CS50W Django Projects](https://github.com/eyadeng/cs50w) | Projects from Harvard’s CS50W course | Django, HTML/CSS |
+
+## 📈 GitHub Stats
+
+![Eyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyadeng&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyadeng&layout=compact&theme=radical)
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/eyadeng)
+- 💻 [Portfolio Website](https://eyadeng.github.io)
+- ✉️ eyad.amgad.mostafa@gmail.com
