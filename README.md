@@ -2,6 +2,8 @@
   <h1 align="center">👋 Hi, I'm Eyad Amgad</h1>
   <h3 align="center"><strong>Machine Learning</strong> • <strong>Data Science</strong> • <strong>Software Engineering</strong></h3>
 </p>
+
+
 ---
 
 I specialize in developing intelligent systems that connect data with functionality. My work spans from building end-to-end machine learning pipelines and computer vision applications to designing scalable web backends using Django and FastAPI.
