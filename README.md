@@ -3,11 +3,7 @@
   <h3 align="center"><strong>Machine Learning</strong> • <strong>Data Science</strong> • <strong>Software Engineering</strong></h3>
 </p>
 
----
 
-I'm a passionate **Computer Engineering** student focused on building intelligent systems. I enjoy working at the intersection of machine learning, data-driven insights, and software development, with hands-on experience in building real-world AI-powered applications.
-
----
 
 ## 🚀 Skills & Tools
 
@@ -70,6 +66,5 @@ I'm a passionate **Computer Engineering** student focused on building intelligen
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/eyadeng)
-- 💻 [Portfolio](https://eyadeng.github.io)
-- ✉️ eyad.amgad.mostafa@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/EyadAmgad)
+- ✉️ eyadamgad43210@gmail.com
