@@ -71,6 +71,5 @@ With strong proficiency in Python, MLOps tools, and open-source technologies, I 
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/eyadeng)
-- 💻 [Portfolio](https://eyadeng.github.io)
-- ✉️ eyad.amgad.mostafa@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/eyad-amgad-529858251/)
+- ✉️ eyadamgad43210@gmail.com
